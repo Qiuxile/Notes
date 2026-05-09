@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7c3dd5d8aaa7fb27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6505bbd75dbf5414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78babd6f3fef26d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "机器人/2026年A类（江西）-方案讲解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026年A类（江西）-方案讲解"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e05acff4d948d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25c8e1c5cdd7c23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b30d5fafc550cf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "35214d01c29b0740",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "旋转偏差",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8b18e5fea1fecc0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f136af51c76178f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1583e35873dde948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1060e0a4bcd65b11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++ learn/c++预备知识/Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Readme 的反向链接列表"
+            }
+          },
+          {
+            "id": "28883e48c990726c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++ learn/c++预备知识/Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Readme 的出链列表"
+            }
+          },
+          {
+            "id": "eccd6301b69a9c35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "52072413551d3df1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ac6b8ab29533db5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++ learn/c++预备知识/Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Readme 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "78babd6f3fef26d9",
+  "lastOpenFiles": [
+    "Git 命令.md",
+    "机器人/2026年A类（江西）-方案讲解.md",
+    "机器人/2026年A类(江西)-规则讲解 .md",
+    "机器人/机器人PPT学习笔记_README.md",
+    "正则表达式/正则表达式.md",
+    "C++ learn/cpp预备知识/Readme.md",
+    "C++ learn/cpp预备知识",
+    "未命名.base",
+    "C++ learn/c++预备知识/Readme.md",
+    "Vim.md",
+    "未命名.md",
+    "未命名",
+    "机器人/2026年A类(江西)-规则讲解 _总结笔记.md",
+    "机器人/2026年A类（江西）-方案讲解_总结笔记.md",
+    "C++ learn/c++预备知识/HelloWorld/Run.bat",
+    "C++ learn/c++预备知识/HelloWorld/HelloWorld.cpp",
+    "C++ learn/c++预备知识/HelloWorld/HelloWorld.exe",
+    "C++ learn/c++预备知识/HelloWorld",
+    "C++ learn/c++预备知识",
+    "C++ learn",
+    "正则表达式",
+    "未命名.canvas",
+    "ESP32.md",
+    "Pasted image 20260404184832.png",
+    "2026-04-02.md",
+    "().md",
+    "未命名 1.md",
+    "创建链接.md",
+    "欢迎.md",
+    "2026-04-01.md"
+  ]
+}
